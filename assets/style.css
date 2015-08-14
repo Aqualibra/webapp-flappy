@@ -1,0 +1,43 @@
+
+
+h1 {
+    color: #FFFFFF;
+    font-size: 75px;
+    font-style: Italic;
+    font-family: Stencil Std;
+
+}
+
+.score {
+    color: #FFFFFF;
+
+}
+
+.gold {
+    color: gold;
+}
+
+.myclass {
+    color: blueviolet;
+}
+
+#gameLink {
+    text-align: center;
+    border: 1px solid grey;
+}
+
+
+
+#greeting {
+    position: absolute;
+    color: blueviolet;
+    left: 40%;
+    top: 40%;
+    background: #fff;
+    width: 350px;
+    height: 300px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    display: none;
+}
